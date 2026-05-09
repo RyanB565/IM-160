@@ -9731,6 +9731,15 @@ MonoBehaviour:
   rotationSpeed: 10
   isClimbing: 0
   respawnPoint: {x: 0, y: 0, z: 0}
+  hasMoved: 0
+  hasUsedInvisibility: 0
+  avoidedSpikes: 0
+  avoidedWater: 0
+  reachedTutorialCheckpoint: 0
+  collectedTutorialGold: 0
+  reachedPlatform: 0
+  usedLadder: 0
+  hasUsedLightning: 0
 --- !u!114 &1707018587
 MonoBehaviour:
   m_ObjectHideFlags: 0

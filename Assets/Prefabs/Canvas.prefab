@@ -875,7 +875,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Player must run around not die and find all collectable before moving
     to the next level. THe door will not spawn unless all collectibles found \n\nPlayer
-    moves with WASD and mouse.\n\n(E) for Invisibility\n\nRight Click to shoot Lightning\n"
+    moves with WASD and mouse.\n\n(E) for Invisibility\n\nLeft Click to shoot Lightning\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
